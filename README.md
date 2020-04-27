@@ -50,7 +50,7 @@ https://cloud.google.com/storage/docs/creating-buckets#storage-create-bucket-con
  An example of required parameters based on original bert repo https://github.com/google-research/bert for `run_pretraining.py`
  
  
- `
+ ```
  python next_sentence_prediction.py \
    --input_file=/tmp/tf_examples.tfrecord \
    --output_dir=/tmp/pretraining_output \
@@ -64,6 +64,6 @@ https://cloud.google.com/storage/docs/creating-buckets#storage-create-bucket-con
    --num_train_steps=20 \
    --num_warmup_steps=10 \
    --learning_rate=2e-5
- `
+ ```
 
  Talk about the output you get
