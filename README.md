@@ -48,6 +48,8 @@ https://cloud.google.com/storage/docs/creating-buckets#storage-create-bucket-con
  * `--do_lower_case` Applyinglower case or not
  
  An example of required parameters based on original bert repo https://github.com/google-research/bert for `run_pretraining.py`
+ 
+ 
  `
  python next_sentence_prediction.py \
    --input_file=/tmp/tf_examples.tfrecord \
