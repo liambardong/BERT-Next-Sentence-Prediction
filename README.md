@@ -19,7 +19,7 @@ https://cloud.google.com/resource-manager/docs/creating-managing-projects
 ## Creating GC Storage Bucket
 * Follow the instructions on this link
 https://cloud.google.com/storage/docs/creating-buckets#storage-create-bucket-console
-  * use thesteps for **Console**
+  * use the steps for **Console**
 ## Setting up the TPU VM
 * Follow the instructions on this link
 <https://cloud.google.com/tpu/docs/quickstart>
